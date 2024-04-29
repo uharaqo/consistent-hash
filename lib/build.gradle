@@ -3,7 +3,7 @@ plugins {
 }
 
 dependencies {
-    testImplementation 'commons-codec:commons-codec:1.15'
+    testImplementation 'commons-codec:commons-codec:1.17.0'
     testImplementation 'org.assertj:assertj-core:3.24.2'
 }
 
